@@ -21,6 +21,8 @@
 <style scoped>
   main {
     padding: 0;
+    max-width: 600px;
+    margin: auto;
   }
 
   h1 {
